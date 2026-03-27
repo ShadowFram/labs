@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <math.h>
 
-int main(){
+#ifndef LABS_LAB1_H
+#define LABS_LAB1_H
+
+void lab1(){
     double a, b, c, d, x1,x2;
     do {
         printf("Enter a: ");
@@ -36,3 +39,6 @@ int main(){
 
     }while(d>=0);
 }
+
+
+#endif //LABS_LAB1_H

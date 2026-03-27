@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include <string.h>
+
+#ifndef LABS_LAB3_H
+#define LABS_LAB3_H
+
+void lab3() {
+    char str[81];
+    printf("Enter string: ");
+    fgets(str, 81,stdin);
+
+
+    int i, len;
+    len = strlen(str);
+    i = 0;
+    while (i < len) {
+        if (str[i] == 'a') {
+            str[i] = 'A';
+        }
+        if (str[i] == 'b') {
+            str[i] = 'B';
+        }
+        i = i + 1;
+    }
+    printf("Result: %s", str);
+}
+#endif //LABS_LAB3_H
