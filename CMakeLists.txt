@@ -5,8 +5,16 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(labs
         main.c
-        lab1.h
-        lab2.h
-        lab3.h
-        lab4.h
+        header/lab1.h
+        header/lab2.h
+        header/lab3.h
+        header/lab4.h
+        src/lab1.c
+        src/lab2.c
+        src/lab3.c
+        src/lab4.c
+        src/lab4_utils.c
+        src/lab5.c
+        header/lab5.h
+        src/lab5_utils.c
 )

@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
-#ifndef LABS_LAB3_H
-#define LABS_LAB3_H
+#include "../header/lab3.h"
 
 void lab3() {
     char str[81];
@@ -24,4 +22,3 @@ void lab3() {
     }
     printf("Result: %s", str);
 }
-#endif //LABS_LAB3_H

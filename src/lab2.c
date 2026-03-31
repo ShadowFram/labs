@@ -1,7 +1,6 @@
 #include <stdio.h>
+#include "../header/lab2.h"
 
-#ifndef LABS_LAB2_H
-#define LABS_LAB2_H
 void lab2()
 {
     int N;
@@ -69,4 +68,4 @@ void lab2()
     printf("\nmain sum = %lf.\nsecond_sum = %lf.", main_sum, second_sum);
 
 }
-#endif //LABS_LAB2_H
+
