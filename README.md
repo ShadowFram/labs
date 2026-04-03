@@ -1,4 +1,12 @@
-LAB1
-LAB2
-LAB3
-LAB4
+[X] LAB 1\
+[X] LAB 2\
+[X] LAB 3\
+[X] LAB 4\
+[X] LAB 5\
+[X] LAB 6\
+[] LAB 7\
+[] LAB 8\
+[] LAB 9\
+[] LAB 10\
+[] LAB 11\
+[] LAB 12

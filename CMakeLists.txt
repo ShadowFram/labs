@@ -17,4 +17,8 @@ add_executable(labs
         src/lab5.c
         header/lab5.h
         src/lab5_utils.c
+        src/lab6.c
+        header/lab6.h
+        src/lab7.c
+        header/lab7.h
 )
