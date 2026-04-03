@@ -4,7 +4,7 @@
 [X] LAB 4\
 [X] LAB 5\
 [X] LAB 6\
-[] LAB 7\
+[X] LAB 7\
 [] LAB 8\
 [] LAB 9\
 [] LAB 10\
