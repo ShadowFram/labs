@@ -9,4 +9,5 @@
 [] LAB 9\
 [] LAB 10\
 [] LAB 11\
-[] LAB 12
+[] LAB 12\
+![Image title](../data/giphy.gif)
