@@ -1,10 +1,10 @@
-#include "header/lab1.h"
-#include "header/lab2.h"
-#include "header/lab3.h"
-#include "header/lab4.h"
-#include "header/lab5.h"
-#include "header/lab6.h"
-#include "header/lab7.h"
+#include "include/lab1.h"
+#include "include/lab2.h"
+#include "include/lab3.h"
+#include "include/lab4.h"
+#include "include/lab5.h"
+#include "include/lab6.h"
+#include "include/lab7.h"
 
 int main(){
 //    lab1();

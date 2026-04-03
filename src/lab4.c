@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "../header/lab4.h"
+#include "../include/lab4.h"
 
 void lab4()
 {

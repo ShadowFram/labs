@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "../header/lab3.h"
+#include "../include/lab3.h"
 
 void lab3() {
     char str[81];

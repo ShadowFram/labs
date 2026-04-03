@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdbool.h>
 
-#include "../header/lab4.h"
+#include "../include/lab4.h"
 
 double tr_p(double a, double b, double c){
     double per = a+b+c;

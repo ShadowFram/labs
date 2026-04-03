@@ -1,4 +1,4 @@
-#include "../header/lab7.h"
+#include "../include/lab7.h"
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

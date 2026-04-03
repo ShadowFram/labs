@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "../header/lab1.h"
+#include "../include/lab1.h"
 
 void lab1(){
     double a, b, c, d, x1,x2;

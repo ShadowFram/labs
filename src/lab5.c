@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "../header/lab5.h"
+#include "../include/lab5.h"
 
 double lab5(){
 

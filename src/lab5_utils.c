@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "../header/lab5.h"
+#include "../include/lab5.h"
 
 double** calculate_matrix(double** matrix1, double** matrix2, int n, char operator){
 
