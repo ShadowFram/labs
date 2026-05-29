@@ -1,7 +1,5 @@
 #include "../include/lab6.h"
 #include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
 
 void lab6(){
 
@@ -20,4 +18,4 @@ void lab6(){
         }
     fclose(rfile);
 
-}
+}   

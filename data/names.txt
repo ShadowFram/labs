@@ -1,7 +1,12 @@
-Ivanov Petr Sergeevich 1975
-Sidorov Nikolay Andreevich 1981
-Puskin Vladimir Vladimirovich 1990
-Vorobyaninov Ippolit Matveevich 1978
-Sidorenko Matvey Mihaylovich 2007
-Rudolf Gilbert Aleksandrovich 1969
-Makarov Vladimir Vladimirovich 1970
+Ivanov Petr 1975 M 170
+Sidorov Nikolay 1981 M 173
+Puskin Vladimir 1990 M 180
+Vorobyaninov Ippolit 1978 M 171
+Sidorenko Matvey 2007 M 176
+Rudolf Gilbert 1969 M 183
+Makarov Vladimir 1970 M 169
+Petrov Andrey 2000 M 164
+Morozova Vasilisa 1980 F 160
+Matveeva Ekaterina 2009 F 167
+Petrova Kamila 2000 F 165
+Vasilev Ivan 2004 F 200

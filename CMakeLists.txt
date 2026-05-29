@@ -21,4 +21,8 @@ add_executable(labs
         include/lab6.h
         src/lab7.c
         include/lab7.h
+        src/lab8.c
+        include/lab8.h
+        src/lab9.c
+        include/lab9.h
 )
