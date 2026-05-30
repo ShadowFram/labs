@@ -8,6 +8,8 @@
 #include "include/lab8.h"
 #include "include/lab9.h"
 #include "include/lab10.h"
+#include "include/lab11.h"
+
 
 int main(){
 //    lab1();
@@ -17,6 +19,7 @@ int main(){
 //    lab5();
 //    lab6();
 //    lab9();
-    lab10();
+//    lab10();
+    lab11();
     return 0;
 }
