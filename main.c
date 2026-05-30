@@ -7,7 +7,7 @@
 #include "include/lab7.h"
 #include "include/lab8.h"
 #include "include/lab9.h"
-
+#include "include/lab10.h"
 
 int main(){
 //    lab1();
@@ -16,7 +16,7 @@ int main(){
 //    lab4();
 //    lab5();
 //    lab6();
-    lab9();
-
+//    lab9();
+    lab10();
     return 0;
 }
